@@ -269,6 +269,8 @@ for p in biblia_lista_ordenada:
 import streamlit as st
 st.header("Autocompletamento de Palavras da Bíblia")
 st.write("A ferramenta a seguir busca palavras na Bíblia que comecem com o prefixo preenchido no campo abaixo.")
+lista_palavras = []
 prefixo = st.text_input("Digite o prefixo que deseja pesquisar: ")
 lista_palavras = autocomplete_arvore_AVL(biblia_arvore_AVL, prefixo)
-st.write(lista_palavras)
+if lista_palavras != []:
+  st.write(lista_palavras)
