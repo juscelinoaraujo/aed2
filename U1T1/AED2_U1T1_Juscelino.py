@@ -246,25 +246,6 @@ class AVLTree(BST):
 
 ### Função de Autocompletamento de Palavras
 
-def autocomplete_lista_ordenada(lista, palavra):
-  saida = []
-  for p in lista:
-    if p[0:len(palavra)] < palavra:
-      continue
-    elif p[0:len(palavra)] == palavra:
-      saida.append(p)
-    else:
-      break;
-  return saida
-
-import time
-palavra = input("Prefixo a pesquisar: ")
-t_inicial_lista = time.time_ns()
-for p in autocomplete_lista_ordenada(biblia_lista_ordenada, palavra):
-  print(p)
-t_final_lista = time.time_ns()
-print("Usando lista ordenada: tempo de Execução de ",t_final_lista - t_inicial_lista, " nanossegundos.")
-
 def autocomplete_no(no, palavra):
   saida = []
   if no != None:
@@ -283,11 +264,6 @@ def autocomplete_arvore_AVL(arvore, palavra):
 biblia_arvore_AVL = AVLTree();
 for p in biblia_lista_ordenada:
   biblia_arvore_AVL.add(p)
-t_inicial_arvore = time.time_ns()
-for p in autocomplete_arvore_AVL(biblia_arvore_AVL, palavra):
-  print(p)
-t_final_arvore = time.time_ns()
-print("Usando árvore AVL: tempo de Execução de ",t_final_arvore - t_inicial_arvore, " nanossegundos.")
 
 import streamlit as st
 prefixo = st.text_input("Digite o prefixo que deseja pesquisar: ")
