@@ -246,16 +246,15 @@ class AVLTree(BST):
 
 ### Função de Autocompletamento de Palavras
 
-def autocomplete_no(no, palavra):
+def autocomplete_no(no, prefixo):
   saida = []
   if no != None:
-    inicio = no.value[0:len(palavra)]
-    if inicio >= palavra:
-      saida += autocomplete_no(no.left_child, palavra)
-    if inicio == palavra:
+    if no.value == prefixo:
       saida.append(no.value)
-    if inicio <= palavra:
-      saida += autocomplete_no(no.right_child, palavra)
+    elif no.value > prefixo:
+      saida += autocomplete_no(no.left_child, prefixo)
+    else:
+      saida += autocomplete_no(no.right_child, prefixo)
   return saida
 
 def autocomplete_arvore_AVL(arvore, palavra):
