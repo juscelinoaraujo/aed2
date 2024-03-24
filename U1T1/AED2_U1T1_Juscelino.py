@@ -18,18 +18,18 @@ biblia_string = biblia_string.lower()
 
 # Além disso, letras (no caso do português somente as vogais) com acentuação tem seus acentos removidos."""
 
-a_com_acento = "áàãâ"
-e_com_acento = "éê"
-o_com_acento = "óõô"
-for l in a_com_acento:
-  biblia_string = biblia_string.replace(l, "a")
-for l in e_com_acento:
-  biblia_string = biblia_string.replace(l, "e")
-for l in o_com_acento:
-  biblia_string = biblia_string.replace(l, "o")
-biblia_string = biblia_string.replace("í", "i")
-biblia_string = biblia_string.replace("ú", "u")
-biblia_string = biblia_string.replace("ç", "c")
+#a_com_acento = "áàãâ"
+#e_com_acento = "éê"
+#o_com_acento = "óõô"
+#for l in a_com_acento:
+#  biblia_string = biblia_string.replace(l, "a")
+#for l in e_com_acento:
+#  biblia_string = biblia_string.replace(l, "e")
+#for l in o_com_acento:
+#  biblia_string = biblia_string.replace(l, "o")
+#biblia_string = biblia_string.replace("í", "i")
+#biblia_string = biblia_string.replace("ú", "u")
+#biblia_string = biblia_string.replace("ç", "c")
 
 # Removidos os caracteres especiais e trocadas as letras com acentos, a string é dividida em palavras. A separação acontece por meio de espaços. Por isso, as quebras de linhas e os hífens são inicialmente convertidas em espaços para que a separação ocorra normalmente. Com isso, é criado o arquivo `biblia_lista`, que consiste em uma lista com as palavras obtidas da separação realizada."""
 
