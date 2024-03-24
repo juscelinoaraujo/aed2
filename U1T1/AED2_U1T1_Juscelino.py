@@ -267,5 +267,5 @@ for p in biblia_lista_ordenada:
 
 import streamlit as st
 prefixo = st.text_input("Digite o prefixo que deseja pesquisar: ")
-palavras = autocomplete_arvore_AVL(prefixo)
-st.write(palavras)
+lista_palavras = autocomplete_arvore_AVL(biblia_arvore_AVL, prefixo)
+st.write(lista_palavras)
