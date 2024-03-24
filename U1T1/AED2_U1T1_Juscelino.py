@@ -37,16 +37,16 @@ biblia_string = biblia_string.replace("\n", " ")
 biblia_string = biblia_string.replace("-", " ")
 biblia_lista = biblia_string.split(" ")
 
-# Como seria de se esperar um texto tão grande, muitas palavras são repetidas. O código executado a seguir remove as palavras repetidas. Isso é feito gerando uma estrutura de conjunto com os elementos da lista e depois gerando uma nova lista a partir desse conjunto. Convém lembrar que isso advém do fato de que em estruturas de tipo conjunto não há multiplicidade de elementos."""
-
-biblia_lista = list(set(biblia_lista))
-
 # Algumas das palavras não são de interesse, como artigos, preposições e algumas conjunções. Elas são retiradas da lista."""
 
 palavras_removiveis = [" ", "o", "os", "a", "as", "um", "uma", "de", "do", "dos", "da", "das", "dum", "duma", "em", "no", "nos", "na", "nas", "para", "que", "mas", "e", "se"]
 for p in palavras_removiveis:
   if p in biblia_lista:
     biblia_lista.remove(p)
+
+# Como seria de se esperar um texto tão grande, muitas palavras são repetidas. O código executado a seguir remove as palavras repetidas. Isso é feito gerando uma estrutura de conjunto com os elementos da lista e depois gerando uma nova lista a partir desse conjunto. Convém lembrar que isso advém do fato de que em estruturas de tipo conjunto não há multiplicidade de elementos."""
+
+biblia_lista = list(set(biblia_lista))
 
 # A lista de palavras é então ordenada, sendo armazenada na variável `biblia_lista_ordenada`:"""
 
