@@ -250,12 +250,12 @@ def autocomplete_no(no, prefixo):
   saida = []
   if no != None:
     inicio = no.value[0:len(prefixo)]
-    if inicio > prefixo:
+    if inicio >= prefixo:
       saida += autocomplete_no(no.left_child, prefixo)
-    else:
+    if inicio == prefixo:
+      saida.append(no.value)
+    if inicio <= prefixo:
       saida += autocomplete_no(no.right_child, prefixo)
-      if inicio == prefixo:
-        saida.append(no.value)
   return saida
 
 def autocomplete_arvore_AVL(arvore, palavra):
