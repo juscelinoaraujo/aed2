@@ -249,12 +249,12 @@ class AVLTree(BST):
 def autocomplete_no(no, prefixo):
   saida = []
   if no != None:
-    if no.value == prefixo:
-      saida.append(no.value)
-    elif no.value > prefixo:
+    if no.value > prefixo:
       saida += autocomplete_no(no.left_child, prefixo)
     else:
       saida += autocomplete_no(no.right_child, prefixo)
+      if no.value[0:len(prefixo)] == prefixo:
+        saida.append(no.value)
   return saida
 
 def autocomplete_arvore_AVL(arvore, palavra):
