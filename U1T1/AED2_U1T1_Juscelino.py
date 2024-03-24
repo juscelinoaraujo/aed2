@@ -101,6 +101,7 @@ class BST:
         return self._contains(current_node.right_child, value)
 
     def contains(self, value):
+		return self._contains(self.root, value)
         
 class AVLNode(Node):
 
