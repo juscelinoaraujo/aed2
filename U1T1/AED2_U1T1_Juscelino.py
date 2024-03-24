@@ -34,6 +34,7 @@ biblia_string = biblia_string.lower()
 # Removidos os caracteres especiais e trocadas as letras com acentos, a string é dividida em palavras. A separação acontece por meio de espaços. Por isso, as quebras de linhas e os hífens são inicialmente convertidas em espaços para que a separação ocorra normalmente. Com isso, é criado o arquivo `biblia_lista`, que consiste em uma lista com as palavras obtidas da separação realizada."""
 
 biblia_string = biblia_string.replace("\n", " ")
+biblia_string = biblia_string.replace("\r", " ")
 biblia_string = biblia_string.replace("-", " ")
 biblia_lista = biblia_string.split(" ")
 
@@ -268,5 +269,4 @@ for p in biblia_lista_ordenada:
 import streamlit as st
 prefixo = st.text_input("Digite o prefixo que deseja pesquisar: ")
 lista_palavras = autocomplete_arvore_AVL(biblia_arvore_AVL, prefixo)
-lista_palavras_nao_repetidas = set(lista_palavras)
-st.write(lista_palavras_nao_repetidas)
+st.write(lista_palavras)
