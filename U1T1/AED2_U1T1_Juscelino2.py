@@ -266,7 +266,6 @@ plt.ylabel("Razão do tempo árvore/lista")
 plt.title("Razão do tempo necessário de autocompletamento por busca em árvore para busca em lista")
 plt.show()
 
-!pip install streamlit
 import streamlit as st
 st.header("Autocompletamento de Palavras da Bíblia")
 st.write("A ferramenta a seguir busca palavras na Bíblia que comecem com o prefixo preenchido no campo abaixo.")
