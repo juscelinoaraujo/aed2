@@ -240,32 +240,6 @@ biblia_arvore_AVL = AVLTree();
 for p in biblia_lista_ordenada:
   biblia_arvore_AVL.add(p)
 
-prefixos_teste = ["aba", "abs", "bala", "cer", "dar", "ef", "gala", "jav", "jo", "lamu", "ob", "ol", "pra", "quer", "ru", "sal", "tab", "val", "xen", "zel"]
-
-import time
-resultados_lista = []
-resultados_arvore = []
-for p in prefixos_teste:
-  t_inicial = time.time_ns()
-  autocomplete_lista_ordenada(biblia_lista_ordenada, p)
-  t_final = time.time_ns()
-  resultados_lista.append(t_final - t_inicial)
-  t_inicial = time.time_ns()
-  autocomplete_arvore_AVL(biblia_arvore_AVL, p)
-  t_final = time.time_ns()
-  resultados_arvore.append(t_final - t_inicial)
-
-import matplotlib.pyplot as plt
-import numpy as np
-resultados_proporcao = [arvore/lista for arvore, lista in zip(resultados_arvore, resultados_lista)]
-
-x = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20])
-plt.plot(x, resultados_proporcao)
-plt.xlabel("Prefixos de teste")
-plt.ylabel("Razão do tempo árvore/lista")
-plt.title("Razão do tempo necessário de autocompletamento por busca em árvore para busca em lista")
-plt.show()
-
 import streamlit as st
 st.header("Autocompletamento de Palavras da Bíblia")
 st.write("A ferramenta a seguir busca palavras na Bíblia que comecem com o prefixo preenchido no campo abaixo.")
