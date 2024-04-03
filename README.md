@@ -16,7 +16,7 @@ Nesse projeto é construída uma ferramenta de autocompletamento de palavras a p
 
 ### Exercícios de complexidade de tempo de algoritmos
 
-Para aprofundar os estudos relacionados à complexidade de tempo de algoritmos, bem como entender melhor como a linguagem Python realiza algumas operações envolvendo listas, alguns exercícios foram resolvidos a partir de dois notebooks contidos na pasta U1T2 deste repositório. Dentre os exercícios presentes, temos a avaliação do tempo de execução de uma função para encontrar elementos máximos 
+Para aprofundar os estudos relacionados à complexidade de tempo de algoritmos, bem como entender melhor como a linguagem Python realiza algumas operações envolvendo listas, alguns exercícios foram resolvidos a partir de dois notebooks contidos na pasta U1T2 deste repositório. Dentre os exercícios presentes, temos a avaliação do tempo de execução de uma função para encontrar elementos máximos de uma lista de inteiros. Na imagem abaixo, temos o resultado de um experimento em que a cada passo é gerada uma lista aleatória de inteiros de tamanho indo de 1 até 500.
 
 Um breve vídeo explicativo sobre os exercícios pode ser visto [aqui](https://www.loom.com/share/47663a9688ef4c26b513e8fe4a19776f?sid=44cdaec6-303b-41ca-89c1-8a6bf3b11f40)
 
