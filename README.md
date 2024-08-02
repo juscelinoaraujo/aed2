@@ -27,3 +27,20 @@ Um breve vídeo explicativo sobre os exercícios pode ser visto [aqui](https://w
 Ainda no âmbito da complexidade de tempo de algoritmos, foram propostos alguns desafios relacionados à busca em Árvores Binárias de Busca -- árvores BST, do inglês *Binary Search Tree*. A grande vantagem desse tipo de estrutura é que o processo de busca de um elemento vai custar um tempo proporcional à altura da árvore, que vai ser da ordem de $log(n)$. O [primeiro desafio](https://github.com/juscelinoaraujo/aed2/blob/main/U1T3/challenge_01_closestvalue%5BJuscelino%5D.ipynb) consistia em desenvolver uma função que recebesse uma árvore BST de números inteiros e um número inteiro "alvo" como parâmetros, e que retornasse o elemento da árvore mais próximo do alvo. Já o [segundo desafio](https://github.com/juscelinoaraujo/aed2/blob/main/U1T3/challenge_02_kth_largest%5BJuscelino%5D.ipynb) pedia o desenvolvimento de uma função que recebesse uma árvore BST de números inteiros e um número inteiro positivo $k$ como parâmetros, e retornasse o $k$-ésimo elemento mais alto da árvore.
 
 Ambos os desafios foram desenvolvidos utilizando recursividade. Em cada caso, foi desenvolvida uma função, aqui chamada de $f_1$, que recebia, dentre outros parâmetros, um nó da árvore. Assim, a função determinava o que deveria ser feito em um caso base e como chamar a função recursivamente. Essa primeira função era chamada por outra mais simples, $f_2$, que recebia a árvore BST como parâmetro e aplicava a função $f_1$ ao nó raiz da árvore. Os detalhes de cada implementação podem ser conferidos na pasta [U1T3](https://github.com/juscelinoaraujo/aed2/tree/main/U1T3) e uma breve explicação em vídeo das soluções pode ser encontrada [aqui](https://www.loom.com/share/0abfb33c2ae345c3b9f9c63a64d62d1a?sid=0933ffba-3cbb-4182-b83e-e6f90e272805).  
+
+### Redes de Coautoria na UFRN
+
+Este projeto estuda redes de coatuoria na UFRN. Para tanto, utilizou-se da base de dados [Scopus](https://www.scopus.com/). Foram selecionados quatro [Objetivos do Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) e foram mapeados os artigos envolvendo pesquisadores da UFRN que se enquadram como relacionados a esses ODS, segundo critério próprio da Scopus. Os ODS selecionados foram os seguintes:
+* 6: Água potável e saneamento;
+* 7: Energia limpa e acessível;
+* 8: Trabalho decente e crescimento econômico;
+* 9: Indústria, inovação e infraestrutura.
+
+A análise foi feita construindo-se um grafo (ou rede) para cada um dos ODS acima. Em cada caso, os pesquisadores representavam nós, enquanto uma aresta existia quando dois pesquisadores tinham publicado artigos juntos (como coautores). Os grafos obtidos possuíam as seguintes características tabeladas abaixo:
+
+| Redes | Número de componentes conexos | Grau de assortatividade
+| ----- |
+| ODS 6 |
+| ODS 7 |
+| ODS 8 |
+| ODS 9 |
