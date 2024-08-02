@@ -38,9 +38,12 @@ Este projeto estuda redes de coatuoria na UFRN. Para tanto, utilizou-se da base 
 
 A análise foi feita construindo-se um grafo (ou rede) para cada um dos ODS acima. Em cada caso, os pesquisadores representavam nós, enquanto uma aresta existia quando dois pesquisadores tinham publicado artigos juntos (como coautores). Os grafos obtidos possuíam as seguintes características tabeladas abaixo:
 
-| Redes | Número de componentes conexos | Grau de assortatividade
-| ----- |
-| ODS 6 |
-| ODS 7 |
-| ODS 8 |
-| ODS 9 |
+|  Redes  | Número de nós | Número de arestas | Grau de assortatividade | Maior grau | Agrupamento médio | Número de componentes conexos |
+| ------- | ------------- | ----------------- | ----------------------- | ---------- | ----------------- | ----------------------------- |
+|  ODS 6  |     1605      |       40989       |         0.9009          |    246     |       0.9310      |              103              |
+|  ODS 7  |      948      |        3241       |         0.0704          |     61     |       0.9095      |               84              |
+|  ODS 8  |      636      |        2854       |         0.9005          |     69     |       0.8794      |              110              |
+|  ODS 9  |     1605      |       40989       |         0.9009          |    246     |       0.9310      |              103              |
+
+
+
