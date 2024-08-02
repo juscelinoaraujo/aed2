@@ -45,5 +45,18 @@ A análise foi feita construindo-se um grafo (ou rede) para cada um dos ODS acim
 |  ODS 8  |      636      |        2854       |         0.9005          |     69     |       0.8794      |              110              |
 |  ODS 9  |      362      |        1037       |         0.6302          |     24     |       0.9326      |               56              |
 
+Gráficos de grau médio dos vizinhos x grau do nó:
 
+* Rede do ODS 6
+![](fig/ods6.png)
+  
+* Rede do ODS 7
+![](fig/ods7.png)
+  
+* Rede do ODS 8
+![](fig/ods8.png)
+  
+* Rede do ODS 9
+![](fig/ods9.png)
+  
 
