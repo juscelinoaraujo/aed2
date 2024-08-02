@@ -45,7 +45,9 @@ A análise foi feita construindo-se um grafo (ou rede) para cada um dos ODS acim
 |  ODS 8  |      636      |        2854       |         0.9005          |     69     |       0.8794      |              110              |
 |  ODS 9  |      362      |        1037       |         0.6302          |     24     |       0.9326      |               56              |
 
-Gráficos de grau médio dos vizinhos x grau do nó:
+A partir da Tabela acima, nota-se que à exceção da rede do ODS 7, em geral os grafos obtidos possuem alto grau de assortatividade. Isso significa que os nós em geral se conectam com outros que possuem grau semelhante. No domínio em que isso é feito, ou seja, redes de coautoria, isso revela o seguinte comportamento: pesquisadores fazem parceria mais recorrentemente com outros que têm aproximadamente o mesmo número de parcerias acadêmicas.  Esse comportamento só não é observado, como salientado anteriormente, na rede do ODS 7. 
+
+O alto índice de agrupamento médio revela que, de maneira geral, se um pesquisador A faz parcerias com o pesquisador B e o pesquisador C, muito provavelmente B e C também publicam trabalhos em conjunto.
 
 * Rede do ODS 6
 ![](fig/ods6.png)
