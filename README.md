@@ -45,7 +45,9 @@ A análise foi feita construindo-se um grafo (ou rede) para cada um dos ODS acim
 |  ODS 8  |      636      |        2854       |         0.9005          |     69     |       0.8794      |              110              |
 |  ODS 9  |      362      |        1037       |         0.6302          |     24     |       0.9326      |               56              |
 
-A partir da Tabela acima, nota-se que à exceção da rede do ODS 7, em geral os grafos obtidos possuem alto grau de assortatividade. Isso significa que os nós em geral se conectam com outros que possuem grau semelhante. No domínio em que isso é feito, ou seja, redes de coautoria, isso revela o seguinte comportamento: pesquisadores fazem parceria mais recorrentemente com outros que têm aproximadamente o mesmo número de parcerias acadêmicas.  Esse comportamento só não é observado, como salientado anteriormente, na rede do ODS 7. 
+A partir da Tabela acima, nota-se que à exceção da rede do ODS 7, em geral os grafos obtidos possuem alto grau de assortatividade. Isso significa que os nós em geral se conectam com outros que possuem grau semelhante. No domínio em que isso é feito, ou seja, redes de coautoria, isso revela o seguinte comportamento: pesquisadores fazem parceria mais recorrentemente com outros que têm aproximadamente o mesmo número de parcerias acadêmicas.  Esse comportamento só não é observado, como salientado anteriormente, na rede do ODS 7. Os gráficos no fim dessa seção ilustram esse comportamento distinto da rede do ODS 7: somente nesta rede o gráfico de grau dos nós vizinhos x grau do nó tem pontos amplamente dispersos, sinal das arestas entre nós com perfis bem distintos.
+
+Em relação aos números de nós e de arestas, eles revelam um certo perfil nos trabalhos publicados por autores da UFRN. De fato, o nó com maior grau na rede do ODS 6 possui grau quase tão alto quanto o número de nós da rede do ODS 9.
 
 O alto índice de agrupamento médio revela que, de maneira geral, se um pesquisador A faz parcerias com o pesquisador B e o pesquisador C, muito provavelmente B e C também publicam trabalhos em conjunto.
 
