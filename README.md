@@ -30,7 +30,7 @@ Ambos os desafios foram desenvolvidos utilizando recursividade. Em cada caso, fo
 
 ### Redes de Coautoria na UFRN
 
-Este projeto estuda redes de coatuoria na UFRN. Para tanto, utilizou-se da base de dados [Scopus](https://www.scopus.com/). Foram selecionados quatro [Objetivos do Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) e foram mapeados os artigos envolvendo pesquisadores da UFRN que se enquadram como relacionados a esses ODS, segundo critério próprio da Scopus. Os ODS selecionados foram os seguintes:
+Este projeto estuda redes de coautoria na UFRN. Para tanto, utilizou-se da base de dados [Scopus](https://www.scopus.com/). Foram selecionados quatro [Objetivos do Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) e foram mapeados os artigos envolvendo pesquisadores da UFRN que se enquadram como relacionados a esses ODS, segundo critério próprio da Scopus. Os ODS selecionados foram os seguintes:
 * 6: Água potável e saneamento;
 * 7: Energia limpa e acessível;
 * 8: Trabalho decente e crescimento econômico;
