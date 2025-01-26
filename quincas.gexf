@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-26">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Certo" label="Certo" />
+      <node id="Veronês" label="Veronês" />
+      <node id="Falcão" label="Falcão" />
+      <node id="D. Fernanda" label="D. Fernanda" />
+      <node id="Narciso" label="Narciso" />
+      <node id="Maria Benedita" label="Maria Benedita" />
+      <node id="Sir Charles Little" label="Sir Charles Little" />
+      <node id="Carlos Maria" label="Carlos Maria" />
+      <node id="M.P." label="M.P." />
+      <node id="CAPÍTULO" label="CAPÍTULO" />
+      <node id="LXVI" label="LXVI" />
+      <node id="Tonica" label="Tonica" />
+      <node id="D. Sofia" label="D. Sofia" />
+      <node id="Dondon" label="Dondon" />
+      <node id="Deus" label="Deus" />
+      <node id="Teófilo" label="Teófilo" />
+      <node id="Napoleão III" label="Napoleão III" />
+      <node id="Guilherme" label="Guilherme" />
+      <node id="O Cruzeiro" label="O Cruzeiro" />
+      <node id="Sofia" label="Sofia" />
+      <node id="Shakespeare" label="Shakespeare" />
+      <node id="Horácio" label="Horácio" />
+      <node id="Dr. Camacho" label="Dr. Camacho" />
+      <node id="Davi" label="Davi" />
+      <node id="Freitas" label="Freitas" />
+      <node id="CXXX" label="CXXX" />
+      <node id="Nuno" label="Nuno" />
+      <node id="Saul" label="Saul" />
+      <node id="Rubião" label="Rubião" />
+      <node id="Botafogo" label="Botafogo" />
+      <node id="Carceler" label="Carceler" />
+      <node id="Correspondência de Portugal" label="Correspondência de Portugal" />
+      <node id="Santo Ambrósio" label="Santo Ambrósio" />
+      <node id="Santo Agostinho" label="Santo Agostinho" />
+      <node id="Somos" label="Somos" />
+      <node id="Sr. Rubião" label="Sr. Rubião" />
+      <node id="Cristiano" label="Cristiano" />
+      <node id="Imperador Luís Napoleão" label="Imperador Luís Napoleão" />
+      <node id="Ide" label="Ide" />
+      <node id="Homero" label="Homero" />
+      <node id="Sim" label="Sim" />
+      <node id="Dr. Hermenegildo" label="Dr. Hermenegildo" />
+      <node id="Juro" label="Juro" />
+      <node id="Deus Nosso Senhor" label="Deus Nosso Senhor" />
+      <node id="Smollet" label="Smollet" />
+      <node id="Rabelais" label="Rabelais" />
+      <node id="Fielding" label="Fielding" />
+      <node id="XLIII Ladeira" label="XLIII Ladeira" />
+      <node id="D. Tonica" label="D. Tonica" />
+      <node id="Bernardes" label="Bernardes" />
+      <node id="João" label="João" />
+      <node id="CAPÍTULO XLI" label="CAPÍTULO XLI" />
+      <node id="Direi" label="Direi" />
+      <node id="Jurei" label="Jurei" />
+      <node id="Luís" label="Luís" />
+      <node id="Teu" label="Teu" />
+      <node id="Marechal Ribeiro" label="Marechal Ribeiro" />
+      <node id="Marechal Torres" label="Marechal Torres" />
+      <node id="Marechal Pio" label="Marechal Pio" />
+      <node id="João Alves Bernardes" label="João Alves Bernardes" />
+      <node id="Carlos Maria..." label="Carlos Maria..." />
+      <node id="Cristiano de Almeida" label="Cristiano de Almeida" />
+      <node id="Luís Napoleão" label="Luís Napoleão" />
+      <node id="Napoleão" label="Napoleão" />
+      <node id="Lobão" label="Lobão" />
+      <node id="Camacho" label="Camacho" />
+      <node id="Adeus" label="Adeus" />
+      <node id="duque de Palha" label="duque de Palha" />
+      <node id="John Roberts" label="John Roberts" />
+      <node id="Wilkinson" label="Wilkinson" />
+      <node id="Parlamento" label="Parlamento" />
+      <node id="Sonora" label="Sonora" />
+      <node id="Fiquei" label="Fiquei" />
+      <node id="Nossa Senhora" label="Nossa Senhora" />
+      <node id="Cruzeiro" label="Cruzeiro" />
+      <node id="Dr. Falcão" label="Dr. Falcão" />
+      <node id="lance grotesco" label="lance grotesco" />
+      <node id="Prometi" label="Prometi" />
+      <node id="Quis" label="Quis" />
+      <node id="fia" label="fia" />
+      <node id="fia..." label="fia..." />
+      <node id="Calundus" label="Calundus" />
+      <node id="nações velhas" label="nações velhas" />
+      <node id="Barão Louis" label="Barão Louis" />
+      <node id="Lucrécia" label="Lucrécia" />
+      <node id="Jacó" label="Jacó" />
+      <node id="Disséreis" label="Disséreis" />
+      <node id="Gosto" label="Gosto" />
+      <node id="XCIX" label="XCIX" />
+      <node id="CLXVII" label="CLXVII" />
+      <node id="Conversei" label="Conversei" />
+      <node id="Pessoa" label="Pessoa" />
+      <node id="Justo" label="Justo" />
+      <node id="Bernadotte" label="Bernadotte" />
+      <node id="Bonaparte" label="Bonaparte" />
+      <node id="Rodrigues" label="Rodrigues" />
+      <node id="Grêmio Protestante" label="Grêmio Protestante" />
+      <node id="Congregação Católica" label="Congregação Católica" />
+      <node id="Sr. Freitas" label="Sr. Freitas" />
+      <node id="Diga-me" label="Diga-me" />
+      <node id="Vinham" label="Vinham" />
+      <node id="CAPÍTULO CLXXXVI" label="CAPÍTULO CLXXXVI" />
+      <node id="Gonçalves Dias" label="Gonçalves Dias" />
+      <node id="Byron" label="Byron" />
+      <node id="Senhor Rubião" label="Senhor Rubião" />
+      <node id="Relativamente" label="Relativamente" />
+      <node id="Revista dos Dois Mundos?" label="Revista dos Dois Mundos?" />
+      <node id="Feuillet" label="Feuillet" />
+      <node id="Olhem" label="Olhem" />
+      <node id="Deliciosa" label="Deliciosa" />
+      <node id="João de Souza Camacho" label="João de Souza Camacho" />
+      <node id="Luís de Vasconcelos" label="Luís de Vasconcelos" />
+      <node id="paixões de Otelo" label="paixões de Otelo" />
+      <node id="Desdêmona" label="Desdêmona" />
+      <node id="Padre Chagas" label="Padre Chagas" />
+      <node id="Dali" label="Dali" />
+      <node id="rosas vulgares" label="rosas vulgares" />
+      <node id="Palha" label="Palha" />
+      <node id="Major Siqueira" label="Major Siqueira" />
+      <node id="Santa Teresa" label="Santa Teresa" />
+      <node id="Dumas" label="Dumas" />
+      <node id="Maria" label="Maria" />
+      <node id="Padre Mendes" label="Padre Mendes" />
+      <node id="linda" label="linda" />
+      <node id="Flamengo" label="Flamengo" />
+      <node id="Endimião" label="Endimião" />
+      <node id="Diana" label="Diana" />
+      <node id="o Cruzeiro" label="o Cruzeiro" />
+      <node id="lacaio" label="lacaio" />
+    </nodes>
+    <edges>
+      <edge source="Certo" target="Veronês" id="0" />
+      <edge source="Certo" target="Cristiano" id="1" />
+      <edge source="Falcão" target="D. Fernanda" id="2" />
+      <edge source="D. Fernanda" target="Carlos Maria" id="3" />
+      <edge source="D. Fernanda" target="CAPÍTULO" id="4" />
+      <edge source="D. Fernanda" target="Nuno" id="5" />
+      <edge source="D. Fernanda" target="Maria Benedita" id="6" />
+      <edge source="D. Fernanda" target="Teófilo" id="7" />
+      <edge source="D. Fernanda" target="Sonora" id="8" />
+      <edge source="D. Fernanda" target="Dr. Falcão" id="9" />
+      <edge source="D. Fernanda" target="Sofia" id="10" />
+      <edge source="Narciso" target="Maria Benedita" id="11" />
+      <edge source="Narciso" target="Sir Charles Little" id="12" />
+      <edge source="Narciso" target="Carlos Maria" id="13" />
+      <edge source="Narciso" target="M.P." id="14" />
+      <edge source="Maria Benedita" target="Somos" id="15" />
+      <edge source="Maria Benedita" target="Carlos Maria" id="16" />
+      <edge source="Maria Benedita" target="Carlos Maria..." id="17" />
+      <edge source="Maria Benedita" target="Deus" id="18" />
+      <edge source="Maria Benedita" target="Sofia" id="19" />
+      <edge source="Maria Benedita" target="lance grotesco" id="20" />
+      <edge source="Maria Benedita" target="Quis" id="21" />
+      <edge source="Maria Benedita" target="Cristiano" id="22" />
+      <edge source="Maria Benedita" target="Rubião" id="23" />
+      <edge source="Maria Benedita" target="Luís de Vasconcelos" id="24" />
+      <edge source="Maria Benedita" target="Teófilo" id="25" />
+      <edge source="Maria Benedita" target="Senhor Rubião" id="26" />
+      <edge source="Carlos Maria" target="CAPÍTULO" id="27" />
+      <edge source="Carlos Maria" target="Freitas" id="28" />
+      <edge source="Carlos Maria" target="Sofia" id="29" />
+      <edge source="Carlos Maria" target="Sonora" id="30" />
+      <edge source="Carlos Maria" target="Teófilo" id="31" />
+      <edge source="Carlos Maria" target="Vinham" id="32" />
+      <edge source="Carlos Maria" target="Relativamente" id="33" />
+      <edge source="Carlos Maria" target="Maria" id="34" />
+      <edge source="CAPÍTULO" target="LXVI" id="35" />
+      <edge source="CAPÍTULO" target="CXXX" id="36" />
+      <edge source="CAPÍTULO" target="Fiquei" id="37" />
+      <edge source="CAPÍTULO" target="XCIX" id="38" />
+      <edge source="CAPÍTULO" target="Sim" id="39" />
+      <edge source="CAPÍTULO" target="Padre Chagas" id="40" />
+      <edge source="CAPÍTULO" target="lacaio" id="41" />
+      <edge source="Tonica" target="D. Sofia" id="42" />
+      <edge source="D. Sofia" target="Dondon" id="43" />
+      <edge source="Deus" target="Teófilo" id="44" />
+      <edge source="Deus" target="Jurei" id="45" />
+      <edge source="Deus" target="Sofia" id="46" />
+      <edge source="Deus" target="Cruzeiro" id="47" />
+      <edge source="Deus" target="Disséreis" id="48" />
+      <edge source="Deus" target="Gosto" id="49" />
+      <edge source="Napoleão III" target="Guilherme" id="50" />
+      <edge source="O Cruzeiro" target="Sofia" id="51" />
+      <edge source="Sofia" target="Imperador Luís Napoleão" id="52" />
+      <edge source="Sofia" target="Cristiano" id="53" />
+      <edge source="Sofia" target="CAPÍTULO XLI" id="54" />
+      <edge source="Sofia" target="Direi" id="55" />
+      <edge source="Sofia" target="Cristiano de Almeida" id="56" />
+      <edge source="Sofia" target="Dr. Camacho" id="57" />
+      <edge source="Sofia" target="Prometi" id="58" />
+      <edge source="Sofia" target="Calundus" id="59" />
+      <edge source="Sofia" target="Rubião" id="60" />
+      <edge source="Sofia" target="Justo" id="61" />
+      <edge source="Sofia" target="Botafogo" id="62" />
+      <edge source="Sofia" target="Padre Mendes" id="63" />
+      <edge source="Sofia" target="Flamengo" id="64" />
+      <edge source="Sofia" target="o Cruzeiro" id="65" />
+      <edge source="Sofia" target="lacaio" id="66" />
+      <edge source="Shakespeare" target="Horácio" id="67" />
+      <edge source="Dr. Camacho" target="Davi" id="68" />
+      <edge source="Dr. Camacho" target="Botafogo" id="69" />
+      <edge source="Dr. Camacho" target="João de Souza Camacho" id="70" />
+      <edge source="Davi" target="Saul" id="71" />
+      <edge source="Rubião" target="Botafogo" id="72" />
+      <edge source="Rubião" target="Carceler" id="73" />
+      <edge source="Rubião" target="Correspondência de Portugal" id="74" />
+      <edge source="Santo Ambrósio" target="Santo Agostinho" id="75" />
+      <edge source="Sr. Rubião" target="Cristiano" id="76" />
+      <edge source="Cristiano" target="Palha" id="77" />
+      <edge source="Ide" target="Homero" id="78" />
+      <edge source="Sim" target="Dr. Hermenegildo" id="79" />
+      <edge source="Juro" target="Deus Nosso Senhor" id="80" />
+      <edge source="Smollet" target="Rabelais" id="81" />
+      <edge source="Smollet" target="Fielding" id="82" />
+      <edge source="XLIII Ladeira" target="D. Tonica" id="83" />
+      <edge source="D. Tonica" target="Nossa Senhora" id="84" />
+      <edge source="D. Tonica" target="Rodrigues" id="85" />
+      <edge source="Bernardes" target="João" id="86" />
+      <edge source="Bernardes" target="João Alves Bernardes" id="87" />
+      <edge source="Luís" target="Teu" id="88" />
+      <edge source="Luís" target="Senhor Rubião" id="89" />
+      <edge source="Luís" target="Napoleão" id="90" />
+      <edge source="Marechal Ribeiro" target="Marechal Torres" id="91" />
+      <edge source="Marechal Ribeiro" target="Marechal Pio" id="92" />
+      <edge source="Luís Napoleão" target="Napoleão" id="93" />
+      <edge source="Lobão" target="Camacho" id="94" />
+      <edge source="Camacho" target="Pessoa" id="95" />
+      <edge source="Adeus" target="duque de Palha" id="96" />
+      <edge source="John Roberts" target="Wilkinson" id="97" />
+      <edge source="John Roberts" target="Parlamento" id="98" />
+      <edge source="Wilkinson" target="Parlamento" id="99" />
+      <edge source="Dr. Falcão" target="CAPÍTULO CLXXXVI" id="100" />
+      <edge source="fia" target="fia..." id="101" />
+      <edge source="nações velhas" target="Barão Louis" id="102" />
+      <edge source="Lucrécia" target="Jacó" id="103" />
+      <edge source="CLXVII" target="Conversei" id="104" />
+      <edge source="Bernadotte" target="Bonaparte" id="105" />
+      <edge source="Grêmio Protestante" target="Congregação Católica" id="106" />
+      <edge source="Sr. Freitas" target="Diga-me" id="107" />
+      <edge source="Gonçalves Dias" target="Byron" id="108" />
+      <edge source="Revista dos Dois Mundos?" target="Feuillet" id="109" />
+      <edge source="Feuillet" target="Dumas" id="110" />
+      <edge source="Olhem" target="Deliciosa" id="111" />
+      <edge source="paixões de Otelo" target="Desdêmona" id="112" />
+      <edge source="Dali" target="rosas vulgares" id="113" />
+      <edge source="Major Siqueira" target="Santa Teresa" id="114" />
+      <edge source="Padre Mendes" target="linda" id="115" />
+      <edge source="Endimião" target="Diana" id="116" />
+    </edges>
+  </graph>
+</gexf>

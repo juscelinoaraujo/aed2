@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-26">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Fidélia" label="Fidélia" />
+      <node id="Tristão" label="Tristão" />
+      <node id="Fidélio" label="Fidélio" />
+      <node id="Beethoven" label="Beethoven" />
+      <node id="saio" label="saio" />
+      <node id="Amanhã" label="Amanhã" />
+      <node id="Mozart" label="Mozart" />
+      <node id="Flamengo" label="Flamengo" />
+      <node id="Fui" label="Fui" />
+      <node id="Padre Bessa" label="Padre Bessa" />
+      <node id="— Note" label="— Note" />
+      <node id="Carmo" label="Carmo" />
+      <node id="Acentuei" label="Acentuei" />
+      <node id="Tristão fez-me" label="Tristão fez-me" />
+      <node id="Constituição" label="Constituição" />
+      <node id="D. Carmo" label="D. Carmo" />
+      <node id="D. Cesária" label="D. Cesária" />
+      <node id="Barão de Santa-Pia" label="Barão de Santa-Pia" />
+      <node id="Botafogo" label="Botafogo" />
+      <node id="madrinha" label="madrinha" />
+      <node id="Banco" label="Banco" />
+      <node id="Sol" label="Sol" />
+      <node id="Renan" label="Renan" />
+      <node id="Mefistófeles" label="Mefistófeles" />
+      <node id="Goethe" label="Goethe" />
+      <node id="Deus" label="Deus" />
+      <node id="Dr. Faria" label="Dr. Faria" />
+      <node id="Miranda" label="Miranda" />
+      <node id="Schumann" label="Schumann" />
+      <node id="São João" label="São João" />
+      <node id="São Pedro" label="São Pedro" />
+      <node id="Fernandes" label="Fernandes" />
+      <node id="Rita" label="Rita" />
+      <node id="Or" label="Or" />
+      <node id="Santa-Pia" label="Santa-Pia" />
+      <node id="Pêsames" label="Pêsames" />
+      <node id="Desviei-me" label="Desviei-me" />
+      <node id="Noronha" label="Noronha" />
+      <node id="Fausto" label="Fausto" />
+      <node id="Osório" label="Osório" />
+      <node id="Dali" label="Dali" />
+      <node id="Wagner" label="Wagner" />
+      <node id="Direito" label="Direito" />
+      <node id="Venho" label="Venho" />
+      <node id="V." label="V." />
+      <node id="Dona Carmo" label="Dona Carmo" />
+      <node id="Pedro" label="Pedro" />
+      <node id="Doutor Faria" label="Doutor Faria" />
+      <node id="canapé" label="canapé" />
+      <node id="sentei-me" label="sentei-me" />
+      <node id="Hei" label="Hei" />
+      <node id="Shelley" label="Shelley" />
+      <node id="Thackeray" label="Thackeray" />
+      <node id="Escola Médica de Lisboa" label="Escola Médica de Lisboa" />
+      <node id="lembrou-me" label="lembrou-me" />
+      <node id="Posto" label="Posto" />
+      <node id="Escola de Marinha" label="Escola de Marinha" />
+      <node id="Banco do Brasil" label="Banco do Brasil" />
+      <node id="Meia" label="Meia" />
+      <node id="Dr. Silva" label="Dr. Silva" />
+      <node id="Acredito" label="Acredito" />
+      <node id="acredito" label="acredito" />
+      <node id="Senhor" label="Senhor" />
+      <node id="Dr. Tristão" label="Dr. Tristão" />
+      <node id="padre brevíssimo" label="padre brevíssimo" />
+      <node id="Cesária" label="Cesária" />
+      <node id="Faria" label="Faria" />
+      <node id="Banco do Sul" label="Banco do Sul" />
+      <node id="Confesso" label="Confesso" />
+      <node id="Aguiares" label="Aguiares" />
+      <node id="Certo" label="Certo" />
+      <node id="D Carmo" label="D Carmo" />
+      <node id="Falamos de Fidélia" label="Falamos de Fidélia" />
+      <node id="marinha do" label="marinha do" />
+      <node id="Casa Gonçalves Pereira" label="Casa Gonçalves Pereira" />
+      <node id="Neles" label="Neles" />
+      <node id="Sabe" label="Sabe" />
+      <node id="D. Fidélia" label="D. Fidélia" />
+      <node id="Dante" label="Dante" />
+      <node id="Sorriu" label="Sorriu" />
+    </nodes>
+    <edges>
+      <edge source="Fidélia" target="Tristão" id="0" />
+      <edge source="Fidélia" target="Banco" id="1" />
+      <edge source="Fidélia" target="Schumann" id="2" />
+      <edge source="Fidélia" target="Osório" id="3" />
+      <edge source="Fidélia" target="Dona Carmo" id="4" />
+      <edge source="Fidélia" target="Pedro" id="5" />
+      <edge source="Fidélia" target="D Carmo" id="6" />
+      <edge source="Fidélia" target="D. Carmo" id="7" />
+      <edge source="Tristão" target="Mozart" id="8" />
+      <edge source="Tristão" target="Padre Bessa" id="9" />
+      <edge source="Tristão" target="D. Carmo" id="10" />
+      <edge source="Tristão" target="Botafogo" id="11" />
+      <edge source="Tristão" target="D. Cesária" id="12" />
+      <edge source="Tristão" target="Or" id="13" />
+      <edge source="Tristão" target="Wagner" id="14" />
+      <edge source="Tristão" target="Direito" id="15" />
+      <edge source="Tristão" target="Escola Médica de Lisboa" id="16" />
+      <edge source="Tristão" target="Meia" id="17" />
+      <edge source="Tristão" target="Flamengo" id="18" />
+      <edge source="Tristão" target="padre brevíssimo" id="19" />
+      <edge source="Tristão" target="Santa-Pia" id="20" />
+      <edge source="Tristão" target="Falamos de Fidélia" id="21" />
+      <edge source="Tristão" target="Aguiares" id="22" />
+      <edge source="Fidélio" target="Beethoven" id="23" />
+      <edge source="saio" target="Amanhã" id="24" />
+      <edge source="Mozart" target="D. Carmo" id="25" />
+      <edge source="Flamengo" target="Fui" id="26" />
+      <edge source="Flamengo" target="São João" id="27" />
+      <edge source="Flamengo" target="Botafogo" id="28" />
+      <edge source="Flamengo" target="D. Carmo" id="29" />
+      <edge source="Flamengo" target="Dali" id="30" />
+      <edge source="Flamengo" target="Deus" id="31" />
+      <edge source="Flamengo" target="marinha do" id="32" />
+      <edge source="Fui" target="Fausto" id="33" />
+      <edge source="Padre Bessa" target="— Note" id="34" />
+      <edge source="Carmo" target="Acentuei" id="35" />
+      <edge source="Tristão fez-me" target="Constituição" id="36" />
+      <edge source="D. Carmo" target="Rita" id="37" />
+      <edge source="D. Carmo" target="Botafogo" id="38" />
+      <edge source="D. Carmo" target="Dali" id="39" />
+      <edge source="D. Carmo" target="Dr. Tristão" id="40" />
+      <edge source="D. Carmo" target="Acredito" id="41" />
+      <edge source="D. Carmo" target="Certo" id="42" />
+      <edge source="D. Cesária" target="Barão de Santa-Pia" id="43" />
+      <edge source="D. Cesária" target="Miranda" id="44" />
+      <edge source="D. Cesária" target="Doutor Faria" id="45" />
+      <edge source="Botafogo" target="madrinha" id="46" />
+      <edge source="Botafogo" target="Hei" id="47" />
+      <edge source="Banco" target="Santa-Pia" id="48" />
+      <edge source="Sol" target="Renan" id="49" />
+      <edge source="Mefistófeles" target="Goethe" id="50" />
+      <edge source="Mefistófeles" target="Deus" id="51" />
+      <edge source="Goethe" target="Fausto" id="52" />
+      <edge source="Dr. Faria" target="Miranda" id="53" />
+      <edge source="São João" target="São Pedro" id="54" />
+      <edge source="Fernandes" target="Rita" id="55" />
+      <edge source="Rita" target="Dr. Silva" id="56" />
+      <edge source="Santa-Pia" target="Pêsames" id="57" />
+      <edge source="Santa-Pia" target="Banco do Sul" id="58" />
+      <edge source="Santa-Pia" target="Dante" id="59" />
+      <edge source="Desviei-me" target="Noronha" id="60" />
+      <edge source="Noronha" target="Sorriu" id="61" />
+      <edge source="Fausto" target="Senhor" id="62" />
+      <edge source="Osório" target="Banco do Sul" id="63" />
+      <edge source="Venho" target="V." id="64" />
+      <edge source="canapé" target="sentei-me" id="65" />
+      <edge source="Shelley" target="Thackeray" id="66" />
+      <edge source="lembrou-me" target="Posto" id="67" />
+      <edge source="Escola de Marinha" target="Banco do Brasil" id="68" />
+      <edge source="Acredito" target="acredito" id="69" />
+      <edge source="Cesária" target="Faria" id="70" />
+      <edge source="Confesso" target="Aguiares" id="71" />
+      <edge source="Casa Gonçalves Pereira" target="Neles" id="72" />
+      <edge source="Sabe" target="D. Fidélia" id="73" />
+    </edges>
+  </graph>
+</gexf>

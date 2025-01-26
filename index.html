@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <title>Grafo - Livro Ressurreição</title>
+    <script src="sigma.min.js"></script> 
+    <script src="sigma.renderers.canvas.js"></script> 
+    <script src="sigma.plugins.drag-nodes.js"></script> 
+    <script src="sigma.plugins.animate.js"></script>
+</head>
+<body>
+    <h1>Grafo - Livro Ressurreição</h1>
+    <div id="graph-container"></div>
+
+    <p>
+        <a href="quincas.html">Grafo - Livro Quincas Borba</a> | 
+        <a href="memorial.html">Grafo - Livro Memorial de Aires</a>
+    </p>
+
+    <script>
+        // Initialize Sigma
+        var s = new sigma({
+            graph: 'ressurreicao.gexf', 
+            renderer: {
+                container: document.getElementById('graph-container'),
+                type: 'canvas'
+            },
+            settings: {
+                // Customize appearance here (e.g., node size, edge color)
+            }
+        });
+
+        // Render the graph
+        s.refresh(); 
+    </script>
+</body>
+</html>

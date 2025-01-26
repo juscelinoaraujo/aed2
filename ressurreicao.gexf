@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-26">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Meneses" label="Meneses" />
+      <node id="Lívia" label="Lívia" />
+      <node id="Félix" label="Félix" />
+      <node id="Sr. Viana" label="Sr. Viana" />
+      <node id="Raquel" label="Raquel" />
+      <node id="Sim" label="Sim" />
+      <node id="Batista" label="Batista" />
+      <node id="Raquel, Meneses" label="Raquel, Meneses" />
+      <node id="Cala-te" label="Cala-te" />
+      <node id="Clara" label="Clara" />
+      <node id="Expansiva" label="Expansiva" />
+      <node id="Henri Murger" label="Henri Murger" />
+      <node id="Meu" label="Meu" />
+      <node id="Basta" label="Basta" />
+      <node id="Fui" label="Fui" />
+      <node id="Luís" label="Luís" />
+      <node id="Weber" label="Weber" />
+      <node id="Luís Batista" label="Luís Batista" />
+      <node id="Offenbach" label="Offenbach" />
+      <node id="Cecília" label="Cecília" />
+      <node id="Visitava-te" label="Visitava-te" />
+      <node id="CAPÍTULO" label="CAPÍTULO" />
+      <node id="Fulano" label="Fulano" />
+      <node id="Sicrano" label="Sicrano" />
+      <node id="Dr. Félix" label="Dr. Félix" />
+      <node id="Paixão" label="Paixão" />
+      <node id="lua-de-" label="lua-de-" />
+      <node id="Iam" label="Iam" />
+      <node id="Félix de Cecília" label="Félix de Cecília" />
+      <node id="Meia" label="Meia" />
+      <node id="Matilde" label="Matilde" />
+      <node id="Tenho" label="Tenho" />
+      <node id="Deus" label="Deus" />
+      <node id="Quis" label="Quis" />
+      <node id="Catumbi" label="Catumbi" />
+      <node id="Disseram-me" label="Disseram-me" />
+      <node id="casa do coronel" label="casa do coronel" />
+      <node id="Rocio" label="Rocio" />
+      <node id="CÉU" label="CÉU" />
+      <node id="palestra" label="palestra" />
+      <node id="Leonardo de Camões" label="Leonardo de Camões" />
+      <node id="Dr. Batista" label="Dr. Batista" />
+      <node id="Vales" label="Vales" />
+      <node id="Viana" label="Viana" />
+      <node id="Soube" label="Soube" />
+      <node id="Viúva" label="Viúva" />
+    </nodes>
+    <edges>
+      <edge source="Meneses" target="Lívia" id="0" />
+      <edge source="Meneses" target="Félix" id="1" />
+      <edge source="Lívia" target="Raquel" id="2" />
+      <edge source="Lívia" target="Cala-te" id="3" />
+      <edge source="Lívia" target="Expansiva" id="4" />
+      <edge source="Lívia" target="Meu" id="5" />
+      <edge source="Lívia" target="Basta" id="6" />
+      <edge source="Lívia" target="Félix" id="7" />
+      <edge source="Lívia" target="CAPÍTULO" id="8" />
+      <edge source="Lívia" target="Iam" id="9" />
+      <edge source="Lívia" target="Tenho" id="10" />
+      <edge source="Lívia" target="Luís" id="11" />
+      <edge source="Lívia" target="Sim" id="12" />
+      <edge source="Lívia" target="Soube" id="13" />
+      <edge source="Félix" target="Sr. Viana" id="14" />
+      <edge source="Félix" target="Batista" id="15" />
+      <edge source="Félix" target="Raquel, Meneses" id="16" />
+      <edge source="Félix" target="Clara" id="17" />
+      <edge source="Félix" target="Henri Murger" id="18" />
+      <edge source="Félix" target="Raquel" id="19" />
+      <edge source="Félix" target="Luís" id="20" />
+      <edge source="Félix" target="Cecília" id="21" />
+      <edge source="Félix" target="Matilde" id="22" />
+      <edge source="Félix" target="Luís Batista" id="23" />
+      <edge source="Félix" target="Tenho" id="24" />
+      <edge source="Félix" target="Quis" id="25" />
+      <edge source="Félix" target="Catumbi" id="26" />
+      <edge source="Félix" target="casa do coronel" id="27" />
+      <edge source="Félix" target="Rocio" id="28" />
+      <edge source="Félix" target="palestra" id="29" />
+      <edge source="Félix" target="Viana" id="30" />
+      <edge source="Félix" target="Viúva" id="31" />
+      <edge source="Félix" target="Dr. Batista" id="32" />
+      <edge source="Raquel" target="Sim" id="33" />
+      <edge source="Raquel" target="Fui" id="34" />
+      <edge source="Raquel" target="CAPÍTULO" id="35" />
+      <edge source="Raquel" target="Deus" id="36" />
+      <edge source="Raquel" target="Luís" id="37" />
+      <edge source="Raquel" target="Matilde" id="38" />
+      <edge source="Raquel" target="Vales" id="39" />
+      <edge source="Batista" target="Disseram-me" id="40" />
+      <edge source="Luís" target="Dr. Félix" id="41" />
+      <edge source="Weber" target="Luís Batista" id="42" />
+      <edge source="Weber" target="Offenbach" id="43" />
+      <edge source="Luís Batista" target="Visitava-te" id="44" />
+      <edge source="CAPÍTULO" target="CÉU" id="45" />
+      <edge source="Fulano" target="Sicrano" id="46" />
+      <edge source="Paixão" target="lua-de-" id="47" />
+      <edge source="Félix de Cecília" target="Meia" id="48" />
+      <edge source="Leonardo de Camões" target="Dr. Batista" id="49" />
+    </edges>
+  </graph>
+</gexf>
