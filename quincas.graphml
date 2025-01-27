@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Cristiano"/>
+<node id="Sr. Rubião"/>
+<node id="Botafogo"/>
+<node id="Sofia"/>
+<node id="Dr. Camacho"/>
+<node id="Davi"/>
+<node id="Deus"/>
+<node id="Maria Benedita"/>
+<node id="Nossa Senhora"/>
+<node id="D. Tonica"/>
+<node id="Adeus"/>
+<node id="duque de Palha"/>
+<node id="Carlos Maria..."/>
+<node id="Carlos Maria"/>
+<node id="D. Fernanda"/>
+<node id="Deliciosa"/>
+<node id="Olhem"/>
+<node id="Dr. Falcão"/>
+<node id="Rubião"/>
+<node id="D. Sofia"/>
+<node id="Tonica"/>
+<node id="Luís Napoleão"/>
+<node id="Napoleão"/>
+<node id="Teófilo"/>
+<node id="Vinham"/>
+<node id="Falcão"/>
+<node id="Freitas"/>
+<node id="Direi"/>
+<node id="nações velhas"/>
+<node id="Barão Louis"/>
+<node id="Rodrigues"/>
+<node id="Wilkinson"/>
+<node id="Parlamento"/>
+<node id="John Roberts"/>
+<node id="rosas vulgares"/>
+<node id="Dali"/>
+<node id="Feuillet"/>
+<node id="Revista dos Dois Mundos?"/>
+<node id="CAPÍTULO XLI"/>
+<node id="lance grotesco"/>
+<node id="Fielding"/>
+<node id="Rabelais"/>
+<node id="Smollet"/>
+<node id="CAPÍTULO CLXXXVI"/>
+<node id="Endimião"/>
+<node id="Diana"/>
+<node id="Senhor Rubião"/>
+<node id="Imperador Luís Napoleão"/>
+<node id="CAPÍTULO"/>
+<node id="Justo"/>
+<node id="Somos"/>
+<node id="LXVI"/>
+<node id="Narciso"/>
+<node id="Sir Charles Little"/>
+<node id="M.P."/>
+<node id="Pessoa"/>
+<node id="Camacho"/>
+<node id="Maria"/>
+<node id="Relativamente"/>
+<node id="O Cruzeiro"/>
+<node id="Padre Chagas"/>
+<node id="Grêmio Protestante"/>
+<node id="Congregação Católica"/>
+<node id="Fiquei"/>
+<node id="Quis"/>
+<node id="Saul"/>
+<node id="Disséreis"/>
+<node id="XLIII Ladeira"/>
+<node id="Byron"/>
+<node id="Gonçalves Dias"/>
+<node id="Santa Teresa"/>
+<node id="Major Siqueira"/>
+<node id="João de Souza Camacho"/>
+<node id="Dumas"/>
+<node id="Luís de Vasconcelos"/>
+<node id="Lobão"/>
+<node id="Horácio"/>
+<node id="Shakespeare"/>
+<node id="Correspondência de Portugal"/>
+<node id="Carceler"/>
+<node id="Certo"/>
+<node id="Nuno"/>
+<node id="Lucrécia"/>
+<node id="Jacó"/>
+<node id="Deus Nosso Senhor"/>
+<node id="Juro"/>
+<node id="Ide"/>
+<node id="Homero"/>
+<node id="Sonora"/>
+<node id="Jurei"/>
+<node id="CLXVII"/>
+<node id="Conversei"/>
+<node id="fia..."/>
+<node id="fia"/>
+<node id="Palha"/>
+<node id="Padre Mendes"/>
+<node id="linda"/>
+<node id="João Alves Bernardes"/>
+<node id="Bernardes"/>
+<node id="Sim"/>
+<node id="Desdêmona"/>
+<node id="paixões de Otelo"/>
+<node id="Dr. Hermenegildo"/>
+<node id="Luís"/>
+<node id="Teu"/>
+<node id="Dondon"/>
+<node id="Santo Agostinho"/>
+<node id="Santo Ambrósio"/>
+<node id="Bonaparte"/>
+<node id="Bernadotte"/>
+<node id="Prometi"/>
+<node id="João"/>
+<node id="Diga-me"/>
+<node id="Sr. Freitas"/>
+<node id="CXXX"/>
+<node id="Marechal Torres"/>
+<node id="Marechal Ribeiro"/>
+<node id="Marechal Pio"/>
+<node id="Veronês"/>
+<node id="lacaio"/>
+<node id="Gosto"/>
+<node id="XCIX"/>
+<node id="Cruzeiro"/>
+<node id="Calundus"/>
+<node id="Cristiano de Almeida"/>
+<node id="o Cruzeiro"/>
+<node id="Guilherme"/>
+<node id="Napoleão III"/>
+<node id="Flamengo"/>
+<edge source="Cristiano" target="Sr. Rubião"/>
+<edge source="Cristiano" target="Sofia"/>
+<edge source="Cristiano" target="Maria Benedita"/>
+<edge source="Cristiano" target="Certo"/>
+<edge source="Cristiano" target="Palha"/>
+<edge source="Botafogo" target="Sofia"/>
+<edge source="Botafogo" target="Dr. Camacho"/>
+<edge source="Botafogo" target="Rubião"/>
+<edge source="Botafogo" target="Correspondência de Portugal"/>
+<edge source="Botafogo" target="Carceler"/>
+<edge source="Sofia" target="D. Fernanda"/>
+<edge source="Sofia" target="Rubião"/>
+<edge source="Sofia" target="Direi"/>
+<edge source="Sofia" target="Deus"/>
+<edge source="Sofia" target="CAPÍTULO XLI"/>
+<edge source="Sofia" target="Imperador Luís Napoleão"/>
+<edge source="Sofia" target="Justo"/>
+<edge source="Sofia" target="Maria Benedita"/>
+<edge source="Sofia" target="Carlos Maria"/>
+<edge source="Sofia" target="O Cruzeiro"/>
+<edge source="Sofia" target="Padre Mendes"/>
+<edge source="Sofia" target="Prometi"/>
+<edge source="Sofia" target="lacaio"/>
+<edge source="Sofia" target="CAPÍTULO"/>
+<edge source="Sofia" target="Calundus"/>
+<edge source="Sofia" target="Cristiano de Almeida"/>
+<edge source="Sofia" target="o Cruzeiro"/>
+<edge source="Sofia" target="Flamengo"/>
+<edge source="Dr. Camacho" target="Davi"/>
+<edge source="Dr. Camacho" target="João de Souza Camacho"/>
+<edge source="Davi" target="Saul"/>
+<edge source="Deus" target="Maria Benedita"/>
+<edge source="Deus" target="Teófilo"/>
+<edge source="Deus" target="Disséreis"/>
+<edge source="Deus" target="Jurei"/>
+<edge source="Deus" target="Gosto"/>
+<edge source="Deus" target="Cruzeiro"/>
+<edge source="Maria Benedita" target="Carlos Maria..."/>
+<edge source="Maria Benedita" target="Rubião"/>
+<edge source="Maria Benedita" target="lance grotesco"/>
+<edge source="Maria Benedita" target="Senhor Rubião"/>
+<edge source="Maria Benedita" target="Somos"/>
+<edge source="Maria Benedita" target="Carlos Maria"/>
+<edge source="Maria Benedita" target="Narciso"/>
+<edge source="Maria Benedita" target="Quis"/>
+<edge source="Maria Benedita" target="Luís de Vasconcelos"/>
+<edge source="Maria Benedita" target="Teófilo"/>
+<edge source="Maria Benedita" target="D. Fernanda"/>
+<edge source="Nossa Senhora" target="D. Tonica"/>
+<edge source="D. Tonica" target="Rodrigues"/>
+<edge source="D. Tonica" target="XLIII Ladeira"/>
+<edge source="Adeus" target="duque de Palha"/>
+<edge source="Carlos Maria..." target="Carlos Maria"/>
+<edge source="Carlos Maria" target="Vinham"/>
+<edge source="Carlos Maria" target="Freitas"/>
+<edge source="Carlos Maria" target="D. Fernanda"/>
+<edge source="Carlos Maria" target="lance grotesco"/>
+<edge source="Carlos Maria" target="Teófilo"/>
+<edge source="Carlos Maria" target="LXVI"/>
+<edge source="Carlos Maria" target="CAPÍTULO"/>
+<edge source="Carlos Maria" target="Narciso"/>
+<edge source="Carlos Maria" target="Maria"/>
+<edge source="Carlos Maria" target="Relativamente"/>
+<edge source="D. Fernanda" target="Dr. Falcão"/>
+<edge source="D. Fernanda" target="Teófilo"/>
+<edge source="D. Fernanda" target="Falcão"/>
+<edge source="D. Fernanda" target="CAPÍTULO"/>
+<edge source="D. Fernanda" target="Nuno"/>
+<edge source="D. Fernanda" target="Sonora"/>
+<edge source="Deliciosa" target="Olhem"/>
+<edge source="Dr. Falcão" target="CAPÍTULO CLXXXVI"/>
+<edge source="D. Sofia" target="Tonica"/>
+<edge source="D. Sofia" target="Dondon"/>
+<edge source="Luís Napoleão" target="Napoleão"/>
+<edge source="Napoleão" target="Luís"/>
+<edge source="Napoleão" target="Senhor Rubião"/>
+<edge source="nações velhas" target="Barão Louis"/>
+<edge source="Wilkinson" target="Parlamento"/>
+<edge source="Wilkinson" target="John Roberts"/>
+<edge source="rosas vulgares" target="Dali"/>
+<edge source="Feuillet" target="Revista dos Dois Mundos?"/>
+<edge source="Feuillet" target="Dumas"/>
+<edge source="Fielding" target="Rabelais"/>
+<edge source="Fielding" target="Smollet"/>
+<edge source="Endimião" target="Diana"/>
+<edge source="CAPÍTULO" target="Padre Chagas"/>
+<edge source="CAPÍTULO" target="Fiquei"/>
+<edge source="CAPÍTULO" target="Sim"/>
+<edge source="CAPÍTULO" target="CXXX"/>
+<edge source="CAPÍTULO" target="XCIX"/>
+<edge source="Narciso" target="Sir Charles Little"/>
+<edge source="Narciso" target="M.P."/>
+<edge source="Pessoa" target="Camacho"/>
+<edge source="Camacho" target="Lobão"/>
+<edge source="Grêmio Protestante" target="Congregação Católica"/>
+<edge source="Byron" target="Gonçalves Dias"/>
+<edge source="Santa Teresa" target="Major Siqueira"/>
+<edge source="Horácio" target="Shakespeare"/>
+<edge source="Certo" target="Veronês"/>
+<edge source="Lucrécia" target="Jacó"/>
+<edge source="Deus Nosso Senhor" target="Juro"/>
+<edge source="Ide" target="Homero"/>
+<edge source="CLXVII" target="Conversei"/>
+<edge source="fia..." target="fia"/>
+<edge source="Padre Mendes" target="linda"/>
+<edge source="João Alves Bernardes" target="Bernardes"/>
+<edge source="Bernardes" target="João"/>
+<edge source="Sim" target="Dr. Hermenegildo"/>
+<edge source="Desdêmona" target="paixões de Otelo"/>
+<edge source="Luís" target="Teu"/>
+<edge source="Santo Agostinho" target="Santo Ambrósio"/>
+<edge source="Bonaparte" target="Bernadotte"/>
+<edge source="Diga-me" target="Sr. Freitas"/>
+<edge source="Marechal Torres" target="Marechal Ribeiro"/>
+<edge source="Marechal Torres" target="Marechal Pio"/>
+<edge source="Guilherme" target="Napoleão III"/>
+</graph></graphml>

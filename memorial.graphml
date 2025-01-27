@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Fidélia"/>
+<node id="Banco"/>
+<node id="Botafogo"/>
+<node id="Tristão"/>
+<node id="madrinha"/>
+<node id="Meia"/>
+<node id="Banco do Sul"/>
+<node id="Osório"/>
+<node id="Constituição"/>
+<node id="Tristão fez-me"/>
+<node id="Fausto"/>
+<node id="Senhor"/>
+<node id="Banco do Brasil"/>
+<node id="Escola de Marinha"/>
+<node id="padre brevíssimo"/>
+<node id="Deus"/>
+<node id="Flamengo"/>
+<node id="Santa-Pia"/>
+<node id="Renan"/>
+<node id="Sol"/>
+<node id="Carmo"/>
+<node id="Acentuei"/>
+<node id="Mozart"/>
+<node id="Goethe"/>
+<node id="Pêsames"/>
+<node id="Dante"/>
+<node id="D. Cesária"/>
+<node id="Barão de Santa-Pia"/>
+<node id="D. Carmo"/>
+<node id="D. Fidélia"/>
+<node id="Sabe"/>
+<node id="Thackeray"/>
+<node id="Shelley"/>
+<node id="Noronha"/>
+<node id="Desviei-me"/>
+<node id="Dali"/>
+<node id="Rita"/>
+<node id="Fernandes"/>
+<node id="Wagner"/>
+<node id="acredito"/>
+<node id="Acredito"/>
+<node id="Hei"/>
+<node id="Mefistófeles"/>
+<node id="D Carmo"/>
+<node id="Dr. Silva"/>
+<node id="Doutor Faria"/>
+<node id="Miranda"/>
+<node id="Dr. Faria"/>
+<node id="Dr. Tristão"/>
+<node id="saio"/>
+<node id="Amanhã"/>
+<node id="Aguiares"/>
+<node id="Confesso"/>
+<node id="Padre Bessa"/>
+<node id="— Note"/>
+<node id="Posto"/>
+<node id="lembrou-me"/>
+<node id="Dona Carmo"/>
+<node id="São João"/>
+<node id="São Pedro"/>
+<node id="Fui"/>
+<node id="Schumann"/>
+<node id="Sorriu"/>
+<node id="Faria"/>
+<node id="Cesária"/>
+<node id="Direito"/>
+<node id="Falamos de Fidélia"/>
+<node id="Escola Médica de Lisboa"/>
+<node id="Beethoven"/>
+<node id="Fidélio"/>
+<node id="Pedro"/>
+<node id="marinha do"/>
+<node id="Certo"/>
+<node id="sentei-me"/>
+<node id="canapé"/>
+<node id="Or"/>
+<node id="Neles"/>
+<node id="Casa Gonçalves Pereira"/>
+<node id="V."/>
+<node id="Venho"/>
+<edge source="Fidélia" target="Banco"/>
+<edge source="Fidélia" target="D Carmo"/>
+<edge source="Fidélia" target="Osório"/>
+<edge source="Fidélia" target="D. Carmo"/>
+<edge source="Fidélia" target="Dona Carmo"/>
+<edge source="Fidélia" target="Schumann"/>
+<edge source="Fidélia" target="Tristão"/>
+<edge source="Fidélia" target="Pedro"/>
+<edge source="Banco" target="Santa-Pia"/>
+<edge source="Botafogo" target="Tristão"/>
+<edge source="Botafogo" target="madrinha"/>
+<edge source="Botafogo" target="Flamengo"/>
+<edge source="Botafogo" target="D. Carmo"/>
+<edge source="Botafogo" target="Hei"/>
+<edge source="Tristão" target="Meia"/>
+<edge source="Tristão" target="padre brevíssimo"/>
+<edge source="Tristão" target="Santa-Pia"/>
+<edge source="Tristão" target="Mozart"/>
+<edge source="Tristão" target="D. Carmo"/>
+<edge source="Tristão" target="Wagner"/>
+<edge source="Tristão" target="Padre Bessa"/>
+<edge source="Tristão" target="Aguiares"/>
+<edge source="Tristão" target="Direito"/>
+<edge source="Tristão" target="Falamos de Fidélia"/>
+<edge source="Tristão" target="Flamengo"/>
+<edge source="Tristão" target="Escola Médica de Lisboa"/>
+<edge source="Tristão" target="D. Cesária"/>
+<edge source="Tristão" target="Or"/>
+<edge source="Banco do Sul" target="Osório"/>
+<edge source="Banco do Sul" target="Santa-Pia"/>
+<edge source="Constituição" target="Tristão fez-me"/>
+<edge source="Fausto" target="Senhor"/>
+<edge source="Fausto" target="Goethe"/>
+<edge source="Fausto" target="Fui"/>
+<edge source="Banco do Brasil" target="Escola de Marinha"/>
+<edge source="Deus" target="Flamengo"/>
+<edge source="Deus" target="Mefistófeles"/>
+<edge source="Deus" target="Goethe"/>
+<edge source="Flamengo" target="D. Carmo"/>
+<edge source="Flamengo" target="Dali"/>
+<edge source="Flamengo" target="São João"/>
+<edge source="Flamengo" target="Fui"/>
+<edge source="Flamengo" target="marinha do"/>
+<edge source="Santa-Pia" target="Pêsames"/>
+<edge source="Santa-Pia" target="Dante"/>
+<edge source="Renan" target="Sol"/>
+<edge source="Carmo" target="Acentuei"/>
+<edge source="Mozart" target="D. Carmo"/>
+<edge source="D. Cesária" target="Barão de Santa-Pia"/>
+<edge source="D. Cesária" target="Doutor Faria"/>
+<edge source="D. Cesária" target="Miranda"/>
+<edge source="D. Carmo" target="Dr. Tristão"/>
+<edge source="D. Carmo" target="Acredito"/>
+<edge source="D. Carmo" target="Rita"/>
+<edge source="D. Carmo" target="Certo"/>
+<edge source="D. Fidélia" target="Sabe"/>
+<edge source="Thackeray" target="Shelley"/>
+<edge source="Noronha" target="Desviei-me"/>
+<edge source="Noronha" target="Sorriu"/>
+<edge source="Rita" target="Fernandes"/>
+<edge source="Rita" target="Dr. Silva"/>
+<edge source="acredito" target="Acredito"/>
+<edge source="Miranda" target="Dr. Faria"/>
+<edge source="saio" target="Amanhã"/>
+<edge source="Aguiares" target="Confesso"/>
+<edge source="Padre Bessa" target="— Note"/>
+<edge source="Posto" target="lembrou-me"/>
+<edge source="São João" target="São Pedro"/>
+<edge source="Faria" target="Cesária"/>
+<edge source="Beethoven" target="Fidélio"/>
+<edge source="sentei-me" target="canapé"/>
+<edge source="Neles" target="Casa Gonçalves Pereira"/>
+<edge source="V." target="Venho"/>
+</graph></graphml>

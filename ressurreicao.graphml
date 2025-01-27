@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Catumbi"/>
+<node id="Félix"/>
+<node id="casa do coronel"/>
+<node id="Sr. Viana"/>
+<node id="Clara"/>
+<node id="Lívia"/>
+<node id="Soube"/>
+<node id="Raquel"/>
+<node id="Fui"/>
+<node id="Rocio"/>
+<node id="Sim"/>
+<node id="Fulano"/>
+<node id="Sicrano"/>
+<node id="Expansiva"/>
+<node id="Weber"/>
+<node id="Offenbach"/>
+<node id="Basta"/>
+<node id="Dr. Batista"/>
+<node id="Leonardo de Camões"/>
+<node id="Matilde"/>
+<node id="Luís"/>
+<node id="Dr. Félix"/>
+<node id="Luís Batista"/>
+<node id="Visitava-te"/>
+<node id="Batista"/>
+<node id="Tenho"/>
+<node id="Disseram-me"/>
+<node id="Cecília"/>
+<node id="CÉU"/>
+<node id="CAPÍTULO"/>
+<node id="Meu"/>
+<node id="palestra"/>
+<node id="Meneses"/>
+<node id="Félix de Cecília"/>
+<node id="Meia"/>
+<node id="lua-de-"/>
+<node id="Paixão"/>
+<node id="Cala-te"/>
+<node id="Henri Murger"/>
+<node id="Deus"/>
+<node id="Quis"/>
+<node id="Iam"/>
+<node id="Viúva"/>
+<node id="Viana"/>
+<node id="Raquel, Meneses"/>
+<node id="Vales"/>
+<edge source="Catumbi" target="Félix"/>
+<edge source="Félix" target="casa do coronel"/>
+<edge source="Félix" target="Sr. Viana"/>
+<edge source="Félix" target="Clara"/>
+<edge source="Félix" target="Rocio"/>
+<edge source="Félix" target="Matilde"/>
+<edge source="Félix" target="Luís Batista"/>
+<edge source="Félix" target="Luís"/>
+<edge source="Félix" target="Batista"/>
+<edge source="Félix" target="Tenho"/>
+<edge source="Félix" target="Cecília"/>
+<edge source="Félix" target="Dr. Batista"/>
+<edge source="Félix" target="palestra"/>
+<edge source="Félix" target="Meneses"/>
+<edge source="Félix" target="Henri Murger"/>
+<edge source="Félix" target="Quis"/>
+<edge source="Félix" target="Lívia"/>
+<edge source="Félix" target="Viúva"/>
+<edge source="Félix" target="Raquel"/>
+<edge source="Félix" target="Viana"/>
+<edge source="Félix" target="Raquel, Meneses"/>
+<edge source="Lívia" target="Soube"/>
+<edge source="Lívia" target="Sim"/>
+<edge source="Lívia" target="Expansiva"/>
+<edge source="Lívia" target="Basta"/>
+<edge source="Lívia" target="Meu"/>
+<edge source="Lívia" target="Raquel"/>
+<edge source="Lívia" target="Meneses"/>
+<edge source="Lívia" target="Tenho"/>
+<edge source="Lívia" target="Cala-te"/>
+<edge source="Lívia" target="CAPÍTULO"/>
+<edge source="Lívia" target="Iam"/>
+<edge source="Lívia" target="Luís"/>
+<edge source="Raquel" target="Fui"/>
+<edge source="Raquel" target="Sim"/>
+<edge source="Raquel" target="Deus"/>
+<edge source="Raquel" target="Matilde"/>
+<edge source="Raquel" target="Vales"/>
+<edge source="Raquel" target="Luís"/>
+<edge source="Fulano" target="Sicrano"/>
+<edge source="Weber" target="Offenbach"/>
+<edge source="Offenbach" target="Luís Batista"/>
+<edge source="Dr. Batista" target="Leonardo de Camões"/>
+<edge source="Luís" target="Dr. Félix"/>
+<edge source="Luís Batista" target="Visitava-te"/>
+<edge source="Batista" target="Disseram-me"/>
+<edge source="CÉU" target="CAPÍTULO"/>
+<edge source="Félix de Cecília" target="Meia"/>
+<edge source="lua-de-" target="Paixão"/>
+</graph></graphml>
